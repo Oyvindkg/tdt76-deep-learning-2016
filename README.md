@@ -1,1 +1,3 @@
-# tdt76-deep-learning-2016
+# TDT76 Deep Learning
+
+The official repository for the deep learning module 2016
