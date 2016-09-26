@@ -56,9 +56,8 @@ for i in range(5000):
     # If error is sufficiently low, exit loop
     if error < 0.01:
         break
-
-# Print warning if no solution found in 5000 steps
-if i == 4999:
+else:
+	# Print warning if no solution found in 5000 steps
     print('No solution found')
 
 # Print number of steps, final MSE, and final solution
